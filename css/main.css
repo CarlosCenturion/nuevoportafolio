@@ -1,0 +1,61 @@
+html,
+body,
+header,
+.view {
+  height: 90%;
+}
+
+footer{
+  height: 100%;
+}
+
+.nav{
+    box-shadow: 0px 0px 0px rgb(196, 195, 195);
+}
+
+  .main-header{
+    background-image: url("../img/bg2.jpg");    
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bg-overlay{
+      background:rgba(47, 54, 64,.6);
+      height: 100%;
+  }
+
+  .Titulo{
+      text-align: center;
+      color: whitesmoke;
+      vertical-align: middle;
+      border-color: black;
+      text-shadow: black 3px 3px;
+      font-size: 4em;
+  }
+
+  .Titulo2{
+    text-align: center;    
+    color: whitesmoke;
+    vertical-align: middle;
+    border-color: black;
+    text-shadow: black 3px 3px;
+    font-size: 3em;
+}
+
+.Titulo3{
+  text-align: center;
+  color: whitesmoke;
+  vertical-align: middle;
+  border-color: black;
+  text-shadow: black 1px 1px;
+  font-size: 1em;
+}
+
+.btnIdioma{ 
+    padding: 0.5rem 5rem;
+    font-size: 2.25rem;
+}
+
+
+
